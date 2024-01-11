@@ -1,0 +1,2 @@
+# JS-QuoteGenerator
+Simple Project
